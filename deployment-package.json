@@ -1,0 +1,24 @@
+{
+  "name": "rizconect-solutions-deployment",
+  "version": "1.0.0",
+  "description": "Rizconect Solutions - IT Services & Digital Transformation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "keywords": [
+    "IT services",
+    "cloud computing",
+    "web development",
+    "digital transformation"
+  ],
+  "author": "Rizconect Solutions",
+  "license": "MIT"
+}
